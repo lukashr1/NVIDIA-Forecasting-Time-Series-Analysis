@@ -166,7 +166,7 @@ The script generates multiple plots:
 ## Model Evaluation Metrics
 
 - **RMSE**: Root Mean Squared Error
-- **MAE**: Mean Absolute Error  
+- **MAE**: Mean Absolute Error
 - **MAPE**: Mean Absolute Percentage Error
 - **Hit Ratio**: Directional accuracy of forecasts
 - **Information Criteria**: AIC, BIC for model selection
